@@ -1,1 +1,2 @@
 from data_structures.dynamic_array import DynamicArray
+from data_structures.array_stack import ArrayStack

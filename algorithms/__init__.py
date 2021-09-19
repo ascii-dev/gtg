@@ -1,0 +1,2 @@
+from algorithms.binary_search import binary_search
+from algorithms.insertion_sort import insertion_sort
